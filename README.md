@@ -33,11 +33,6 @@
 
 + ALGORITMOS DE REGESION SVM (MAQUINA DE SOPORTE DE VECTORES): Busca mejor linea de ajuste que maxima el margen entre los puntps de datos y la linea de regresion.
 
-+ ARBOLES DE DESICIONES: Divide el conjunto de datos en nodos de decision para preveer valores continuos en las hojas de arbol.
-
-+ BOSQUES ALEATORIOS: Conjunto de arboles de decision donde la salida es el promedio de las salidas de los arboles individuales. 
-
-
 ## ALGORITMOS DE CLASIFICACION.
 ### En machine learning, los algoritmos de clasificacion permiten a las computadoras asignar etiquetas o categorias de datos nuevos basandose en patrones identficandolos en datos de entrenamiento previos. Las categorias pueden ser binarias o pueden ser multiclase.
 
@@ -48,7 +43,3 @@
 + K-NN: Asigna una etiqueta a una  instacia basada en las etiquetas de sus vecinos mas cercanos.
 
 + NAIVE BAYES: Basada en el teorema de Bayes y asume independencia condicional entre las caracteriscas dadas las etiquetas dew clase.
-
-+ ARBOLES DE DESICION: Estructura de arbol donde cada nodo representa una desicion especifica basada en caracteristicas especificas.
-
-+ BOSQUES ALEATORIOS: Conjunto de arboles de descicion, donde la prediccion se obtiene por votacion o promedio.
